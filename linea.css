@@ -1,0 +1,20 @@
+body{
+    height: 97vh;
+    background-image: 
+      linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+      ),
+      url(Rectangle.png);
+     background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover; 
+}
+
+.linea{
+    color: white;
+}
+
+.name{
+    font-family: Arial, Helvetica, sans-serif;
+}

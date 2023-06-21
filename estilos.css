@@ -1,0 +1,26 @@
+body  {
+    background-image: url(Automotriz.jpg);
+    background-repeat: no-repeat;
+    background-size: 1100px 50em;
+    background-color: black;
+  }
+  
+  #TituloA {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+  }
+
+  .TituloB {
+    height: 4cm;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+  }
+
+  .form {
+    color: white;
+  }
+
+  .SI{
+    color: white;
+  }
+  
